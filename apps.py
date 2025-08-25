@@ -1,5 +1,8 @@
 # app.py
 import os
+os.system("pip install plotly")
+import plotly.express as px
+import os
 import re
 import json
 import pandas as pd
