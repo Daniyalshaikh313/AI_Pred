@@ -4,7 +4,7 @@
 
 This application empowers business users, analysts, and decision-makers to upload datasets and instantly generate **automated EDA, professional executive summaries, business insights, and interactive visualizations**.  
 It bridges the gap between **data analytics** and **executive reporting** by combining the power of **Large Language Models (LLMs)** with traditional **data analysis tools**.  
-
+# Link :https://aipred-bh6jmdf2pqyuqvzbtegqjj.streamlit.app/
 ---
 
 ## 🚀 Features  
