@@ -3,12 +3,7 @@ import os
 import re
 import json
 import pandas as pd
-# 🔧 Ensure plotly is installed before importing
-try:
-    import plotly.express as px
-except ImportError:
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "plotly==5.22.0"])
-    import plotly.express as px
+import plotly.express as px
 import streamlit as st
 import google.generativeai as genai
 from dotenv import load_dotenv
